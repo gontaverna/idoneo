@@ -1,7 +1,7 @@
 
 
-CREATE DATABASE idoneo2;
-USE idoneo2 ;
+CREATE DATABASE idoneo;
+USE idoneo ;
 
 CREATE TABLE users (
  id INT NOT NULL AUTO_INCREMENT,
